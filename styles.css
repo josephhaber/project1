@@ -1,0 +1,28 @@
+.jumbotron-fluid {
+    background-attachment: fixed;
+    background-image: url(https://www.nba.com/blazers/sites/blazers/files/20190627_ely_0647.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+  
+}
+
+.navbar {
+    background-color: white;
+  }
+
+h1 {
+    font-size: 60px;
+    color: white;
+}
+
+h4 {
+    font-size: 80px;
+    color: black;
+}
+
+h5 {
+    font-size: 30px;
+    color: blue;
+    font-family: 'Bebas Neue', cursive;
+}
