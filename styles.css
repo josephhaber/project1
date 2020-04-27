@@ -26,3 +26,11 @@ h5 {
     color: blue;
     font-family: 'Bebas Neue', cursive;
 }
+
+h6 {
+    font-size: 40px;
+    color:black;
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgb(243, 192, 192);
+}
+
