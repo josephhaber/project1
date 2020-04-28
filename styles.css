@@ -7,6 +7,15 @@
   
 }
 
+.jumbotron1 {
+    background-color: orange;
+    max-height: 200px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://www.ucf.edu/news/files/2020/04/ucf-covid-19-testing-center.jpg)
+}
+
 .navbar {
     background-color: white;
   }
@@ -25,6 +34,7 @@ h5 {
     font-size: 30px;
     color: blue;
     font-family: 'Bebas Neue', cursive;
+    text-align: center;
 }
 
 h6 {
@@ -32,5 +42,15 @@ h6 {
     color:black;
     font-family: 'Bebas Neue', cursive;
     background-color: rgb(243, 192, 192);
+    text-align: center !important;
 }
+
+.clinics {
+    padding: 0px !important;
+    text-align: center !important;
+  }
+
+  .table {
+    border: 1px solid black;
+  }
 
